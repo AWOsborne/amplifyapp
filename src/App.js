@@ -19,6 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className="SecondPart">
+        <span className="FillerText">This is test text.</span>
+      </div>
     </div>
   );
 }
